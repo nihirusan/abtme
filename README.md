@@ -3,4 +3,4 @@
 ㅤㅤㅤㅤㅤㅤмейн фандомыㅤpjsk , bangdream , hsr , ddlc , cookie run , csm , squid game , milgram , nso , alnst далбше лень
 ![Frame 5](https://files.catbox.moe/d6lynv.png)
 ㅤㅤㅤвы можете спокойно подсаживаться ко мне / шептать в личку!! ещё я часто афкашу поэтому могу заметить не сразу ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤᅠᅠㅤㅤㅤㅤ .ᅠᅠ𖹭
-@import 'pages/home';
+          @import 'pages/home' ;
